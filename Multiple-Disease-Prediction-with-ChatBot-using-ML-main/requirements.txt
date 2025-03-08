@@ -1,0 +1,13 @@
+streamlit
+plotly
+matplotlib
+pandas
+streamlit-option-menu
+Pillow
+numpy
+seaborn
+joblib
+python-dotenv
+requests
+# pip install -U google-generativeai
+pickle5
